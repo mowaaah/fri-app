@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/fri-app/static/css/main.b09290c6.css",
-    "main.js": "/fri-app/static/js/main.f1dfdb58.js",
+    "main.js": "/fri-app/static/js/main.3b52909d.js",
     "static/media/manga-graphic.jpg": "/fri-app/static/media/manga-graphic.e36e8fbc75dc79aca6f2.jpg",
     "static/media/horror-thriller.jpg": "/fri-app/static/media/horror-thriller.64042ea71863ce3d9417.jpg",
     "static/media/comedy.jpg": "/fri-app/static/media/comedy.8dfedb406d116c95b56c.jpg",
@@ -16,10 +16,10 @@
     "static/media/website logo.png": "/fri-app/static/media/website logo.08695f332794fb5e8c6f.png",
     "index.html": "/fri-app/index.html",
     "main.b09290c6.css.map": "/fri-app/static/css/main.b09290c6.css.map",
-    "main.f1dfdb58.js.map": "/fri-app/static/js/main.f1dfdb58.js.map"
+    "main.3b52909d.js.map": "/fri-app/static/js/main.3b52909d.js.map"
   },
   "entrypoints": [
     "static/css/main.b09290c6.css",
-    "static/js/main.f1dfdb58.js"
+    "static/js/main.3b52909d.js"
   ]
 }
