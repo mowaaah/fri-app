@@ -13,7 +13,6 @@ function App() {
 			<Navbar />
 			<div>
 				<Routes>
-					<Route path="*" element={<NotFound />} />
 					<Route path="/fri-app/" element={<Home />} />
 					<Route path="/" element={<Home />} />
 					<Route path="/home" element={<Home />} />
