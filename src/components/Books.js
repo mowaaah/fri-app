@@ -22,6 +22,10 @@ function Books() {
 		getData.append("genre", genre);
 		getData.append("function", "insert");
 
+		setBook('');
+		setAuthor('');
+		setGenre('');
+
 		axios({
 			method: "POST", //get //post
 			url: "http://localhost/sat-app/db.php", //db link
