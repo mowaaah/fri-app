@@ -1,0 +1,23 @@
+.bodyColor{
+  background-color: #F8EDE8;
+}
+.colorButton { 
+  color: #4E220E; 
+}
+.colorButton:hover {
+  background-color: #4E220E;
+  color: white;
+}
+.cardhover:hover{
+  color: black;
+  background-color: #F8E0D5;
+  opacity: 90%;
+  border-color: #4E220E;
+  box-shadow: #4E220E;
+}
+.cardBtn{
+  color: #4E220E;
+  background-color: #F8E0D5;
+  border-color: white;
+  font-size: 12pt;
+}
