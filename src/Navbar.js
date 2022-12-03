@@ -6,7 +6,7 @@ function Navbar(){
         <div>
             <nav className="navbar navbar-expand-lg" style={{backgroundColor:"#F8E0D5"}}>
                 <div className="container-fluid">
-                    <Link className="navbar-brand" to="/home"><img src={icon} style={{width:"150px"}} alt="icon-logo"/></Link>
+                    <Link className="navbar-brand" to="/fri-app/"><img src={icon} style={{width:"150px"}} alt="icon-logo"/></Link>
                     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
                         <span className="navbar-toggler-icon"></span>
                     </button>
