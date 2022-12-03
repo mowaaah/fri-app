@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/fri-app/static/css/main.b09290c6.css",
+    "main.js": "/fri-app/static/js/main.d9190c9f.js",
+    "static/media/manga-graphic.jpg": "/fri-app/static/media/manga-graphic.e36e8fbc75dc79aca6f2.jpg",
+    "static/media/horror-thriller.jpg": "/fri-app/static/media/horror-thriller.64042ea71863ce3d9417.jpg",
+    "static/media/comedy.jpg": "/fri-app/static/media/comedy.8dfedb406d116c95b56c.jpg",
+    "static/media/science fiction.jpg": "/fri-app/static/media/science fiction.9bd992295a1e1f53989d.jpg",
+    "static/media/auto biography.jpg": "/fri-app/static/media/auto biography.e98ec73dccd69eb64a0e.jpg",
+    "static/media/young adult.jpg": "/fri-app/static/media/young adult.686a65e2231ec2f93b50.jpg",
+    "static/media/adventure.jpg": "/fri-app/static/media/adventure.1c778791903dbc52fcfa.jpg",
+    "static/media/mystery.jpg": "/fri-app/static/media/mystery.ca0f12c2a488a8370c41.jpg",
+    "static/media/fantasy.jpg": "/fri-app/static/media/fantasy.b0b8d11632feb9e9c6ea.jpg",
+    "static/media/action.jpg": "/fri-app/static/media/action.5bdadcbeedc67a7ee4a2.jpg",
+    "static/media/romance.jpg": "/fri-app/static/media/romance.2eb191397d9c8715d59d.jpg",
+    "static/media/website logo.png": "/fri-app/static/media/website logo.08695f332794fb5e8c6f.png",
+    "index.html": "/fri-app/index.html",
+    "main.b09290c6.css.map": "/fri-app/static/css/main.b09290c6.css.map",
+    "main.d9190c9f.js.map": "/fri-app/static/js/main.d9190c9f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b09290c6.css",
+    "static/js/main.d9190c9f.js"
+  ]
+}
