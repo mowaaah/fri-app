@@ -13,7 +13,7 @@ function App() {
 			<Navbar />
 			<div>
 				<Routes>
-					<Route path="/fri-app/" element={<Home />} />
+					<Route path="/home" element={<Home />} />
 					<Route path="/home" element={<Home />} />
 					<Route path="/booklist" element={<BookList />} />
 					<Route path="/about" element={<About />} />
