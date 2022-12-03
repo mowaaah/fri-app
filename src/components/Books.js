@@ -14,7 +14,8 @@ function Books() {
 		});
 	}, []);
 
-	const submitBtn = function () {
+	const submitBtn = function (e) {
+		e.preventDefault();
 		let getData = new FormData();
 		getData.append("book", book); //key-value pairs
 		getData.append("author", author);
@@ -102,7 +103,7 @@ function Books() {
 					Book's List
 				</h1>
 				<br />
-				<form method="" style={{ display: "inline-flex" }}>
+				<form action="" style={{ display: "inline-flex" }}>
 					<input
 						type="text"
 						name="book"
