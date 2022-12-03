@@ -14,6 +14,7 @@ function App() {
 			<div>
 				<Routes>
 					<Route path="/fri-app/" element={<Home />} />
+					<Route path="/" element={<Home />} />
 					<Route path="/home" element={<Home />} />
 					<Route path="/booklist" element={<BookList />} />
 					<Route path="/about" element={<About />} />
